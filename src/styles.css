@@ -58,7 +58,7 @@ body {
 
 .square {
   background: #fff;
-  color: rgb(167, 163, 163);
+  color: rgb(0, 0, 0);
   border: 1px solid #999;
   /* border-radius: 50%; */
   float: left;
